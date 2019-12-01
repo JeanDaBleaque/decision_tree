@@ -1,1 +1,5 @@
-Basic Decision Tree Algorithm written on C Language
+Decision Tree Algorithm written on C Language
+    Program calculates the probability of apple color which you have its coordinates.
+    First things first, algorithm needs to be taught. Algorithm taughts itself with data file(data.txt).
+    After this stage, algorithm is ready to calculate.
+    Enter the X and Y coordinates of the apple which you want to find its color.
